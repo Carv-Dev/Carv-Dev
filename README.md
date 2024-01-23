@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Carvalho</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Starter development student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carv-dev&label=Profile%20views&color=0e75b6&style=flat" alt="carv-dev" /> </p>
 
