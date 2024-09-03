@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carv-dev&label=Profile%20views&color=0e75b6&style=flat" alt="carv-dev" /> </p>
 
-- 🌱 I’m currently learning **Systems Development and Electronics**
+- 🌱 I’m currently learning **Systems Development** and **Digital Electronics**
 
 - 🤝 I'm looking for **software development projects** to learn more about that
 
